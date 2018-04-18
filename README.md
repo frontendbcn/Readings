@@ -7,7 +7,7 @@
 
 #### ANGULAR
 
-* [Angular 5: From Theory To Practice: Build the web applications of tomorrow using the new Angular web framework from Google](https://www.amazon.in/Angular-Practice-applications-tomorrow-framework-ebook/dp/B01N9S0CZN) - Asim Hussain
+* [Angular 4 desde Cero: La guía práctica y completa para convertirte en desarrollador Angular Full Stack](https://www.amazon.es/Angular-desde-Cero-convertirte-desarrollador-ebook/dp/B073YC4N6R) - Pedro J. Jiménez Castela
 
 
 
