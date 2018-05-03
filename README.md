@@ -15,6 +15,11 @@
 
 * [Sass in the real world](https://www.gitbook.com/book/anotheruiguy/sassintherealworld_book-i/details) - Kianosh Pourian & Dale Sande
 
+#### CSS GRID
+
+* [Grid layout in css](https://www.amazon.es/Grid-Layout-CSS-Interface-Web-ebook/dp/B01EGQ1QI8) - Eric A. Meyer
+
+
 #### SCIENCE FICTION
 
 * [Sueños Luz](https://www.amazon.es/11-sue%C3%B1os-luz-Nicholas-Avedon-ebook/dp/B01KTZKZQE) - Nicholas Avedon
